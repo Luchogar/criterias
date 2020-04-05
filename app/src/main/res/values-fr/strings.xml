@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--version francesa -->
+<resources>
+    <string name="app_name">criterias</string>
+    <string name="cordial">Bienvenue</string>
+    <string name="saludo">Application multi-langues</string>
+    <string name="inicio">Accueil</string>
+</resources>

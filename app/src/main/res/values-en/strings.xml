@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--version en ingles -->
+<resources>
+    <string name="app_name">criterias</string>
+    <string name="cordial">Welcome</string>
+    <string name="saludo">Multi-language application</string>
+    <string name="inicio">Home</string>
+</resources>

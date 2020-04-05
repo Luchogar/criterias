@@ -1,0 +1,2 @@
+rootProject.name='criterias'
+include ':app'
